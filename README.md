@@ -226,3 +226,7 @@ python3 eval.py imasm curr_imasm64 -f plot_attention
  - [seaborn](https://seaborn.pydata.org/) - helper plotting library for some charts
  - [NumPy](http://www.numpy.org/) - main numerical library for data vectorisation
  - [Pandas](https://pandas.pydata.org/) - helper data manipulation library
+ 
+ ## issues
+ [Solved]ValueError: not enough values to unpack (expected 3, got 2)
+ https://github.com/facebookresearch/maskrcnn-benchmark/issues/339
